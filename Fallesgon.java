@@ -12,7 +12,7 @@ import org.apache.commons.io.FileUtils;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class Fallesgon_Test {
+public class Fallesgon{
 
     @Test
     public void testParallel() {
